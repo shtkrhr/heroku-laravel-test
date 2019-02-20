@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Heroku Laravel Test
+                    Heroku Laravel Test (deployed from github?)
                 </div>
 
                 <div class="links">
